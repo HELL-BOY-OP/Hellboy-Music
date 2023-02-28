@@ -1,7 +1,7 @@
 <p align="center">
     <br><b>😫 𝑴𝑼𝑺𝑰𝑪 𝑴𝑼𝑺𝑰𝑪 😫</b><br>
 </p>
-<p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/4d83f2e52df49e973e18d.jpg"></a></p>
+<p align="center"><a href="https://t.me/EAGLE_MAFIA_CLUB"><img src="https://telegra.ph/file/4d83f2e52df49e973e18d.jpg"></a></p>
 
 Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
@@ -11,7 +11,7 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
     <img src="https://img.shields.io/github/watchers/Popay-ckl/TBH-MUSIC?style=for-the-badge" alt="Watchers">
     <img src="https://img.shields.io/github/license/Popay-ckl/TBH-MUSIC?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/commit-activity/w/Popay-ckl/TBH-MUSIC?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/Popay-ckl"> <img src="https://img.shields.io/github/last-commit/Popay-ckl/TBH-MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Popay-ckl/TBH-MUSIC/commits/Popay-ckl"> <img src="https://img.shields.io/github/last-commit/Popay-ckl/TBH-MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <img src="https://img.shields.io/github/contributors/Popay-ckl/TBH-MUSIC?style=for-the-badge" alt="Contributors">
     <a href="https://github.com/Popay-ckl/TBH-MUSIC/issues"> <img src="https://img.shields.io/github/issues/Popay-ckl/TBH-MUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Popay-ckl/TBH-MUSIC"> <img src="https://img.shields.io/github/repo-size/Popay-ckl/TBH-MUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -86,7 +86,7 @@ python3 main.py # Run the bot
 
 ### ᴄʀᴇᴅɪᴛs 💖
 - [HELLBOY](https://github.com/Popay-ckl): Developer
-- [Fallen Music Bot](https://telegram.me/TBH_MUSIC_BOT): Test Bot
+- [Tbh Music Bot](https://telegram.me/TBH_MUSIC_BOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
